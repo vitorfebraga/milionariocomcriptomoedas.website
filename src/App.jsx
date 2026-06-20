@@ -82,7 +82,7 @@ function App() {
                 <span>países alcançados</span>
               </div>
               <div className="proof-item">
-                <strong>40+</strong>
+                <strong>5</strong>
                 <span>eventos como palestrante</span>
               </div>
             </div>

@@ -10,7 +10,7 @@ const buyLink = 'https://pay.kiwify.com.br/XvcZrMp'
 
 const events = [
   { src: vitorbraga5, name: 'Web Summit Rio', caption: 'No maior palco de tecnologia do mundo, representando o Brasil no empreendedorismo' },
-  { src: vitorbraga2, name: 'Rio Innovation Week', caption: 'Participu do evento discutindo o futuro dos investimentos digitais.' },
+  { src: vitorbraga2, name: 'Rio Innovation Week', caption: 'Participou do evento discutindo o futuro dos investimentos digitais.' },
   { src: vitorbraga4, name: 'NewHack', caption: 'Networking com líderes do setor e conexões que geram oportunidades reais.' },
   { src: vitorbraga3, name: 'Horasis', caption: 'Encontro global de líderes e estratégias que moldam o mercado.' },
 ]

@@ -114,7 +114,7 @@ function App() {
             <div className="story-card">
               <span className="story-icon">🎓</span>
               <h3>Reconhecimento internacional</h3>
-              <p>Meu método chamou atenção de 150 paises ao do mundo,entre eles: <strong>Estados Unidos</strong>, <strong>Reino Unido</strong> e <strong>Emirados Árabes Unidos</strong>.</p>
+              <p>Meu método chamou a atenção de 150 países ao redor do mundo,entre eles: <strong>Estados Unidos</strong>, <strong>Reino Unido</strong> e <strong>Emirados Árabes Unidos</strong>.</p>
             </div>
             <div className="story-card">
               <span className="story-icon">💰</span>
